@@ -6,3 +6,6 @@ Tech Stack:
  - Javascript
  - Jest
  - NodeJS
+ 
+ To run the app:
+`npm run start <BASE_URL>`
